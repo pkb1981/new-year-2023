@@ -1,0 +1,44 @@
+* {
+    margin: 0;
+    font-family: 'Work Sans', sans-serif;
+}
+
+/* landing page/banner page styling */
+header {
+    background-image: url(./images/banner/banner3.png);
+    width: 1600px;
+    height: 800px;
+}
+
+.banner-heading {
+    font-weight: 700;
+    font-size: 65px;
+    text-align: right;
+    padding-top: 216px;
+    padding-right: 230px;
+    padding-left: 845px;
+    color: #FFFFFF;
+}
+
+.banner-text {
+    text-align: right;
+    color: #FFFFFF;
+    padding-top: 24px;
+    padding-right: 230px;
+    padding-left: 876px;
+}
+
+.btn-white {
+    margin-top: 32px;
+    color: #005FAC;
+    font-weight: 600;
+    font-size: 20px;
+    margin-left: 1210px;
+    margin-right: 230px;
+    margin-top: 32px;
+    margin-bottom: 166px;
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    border-style: none;
+}
