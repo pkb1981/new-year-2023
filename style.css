@@ -42,3 +42,48 @@ header {
     border-radius: 5px;
     border-style: none;
 }
+
+/* failure section */
+.failure {
+    display: flex;
+    width: 1072px;
+    height: 723px;
+}
+
+.failure-image {
+    margin-top: 131px;
+    margin-left: 206px;
+    width: 569px;
+    height: 723px;
+}
+
+.failure-doc {
+    margin-top: 370px;
+    margin-left: 87px;
+}
+
+.failure-doc h1 {
+    font-Weight: 700;
+    font-size: 40px;
+    color: #151414;
+    width: 288px;
+}
+
+.failure-text {
+    margin-top: 24px;
+    color: #444343;
+    width: 416px;
+}
+
+ul li {
+    margin-top: 16px;
+    list-style: none;
+    width: 349px;
+    content: '\2714\0020';
+    margin-left: -38px;
+}
+
+ul li:before {
+    content: '\2714\0020';
+    color: #16D887;
+}
